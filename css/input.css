@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: transparent url(../img/bg-venta.jpg) fixed no-repeat center /
+    cover;
+}
